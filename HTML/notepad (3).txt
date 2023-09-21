@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Smart Phone</title>
+</head>
+<body>
+    <h1>Blackberry</h1>
+    <br>
+    <p>BlackBerry, any of a series of wireless handheld communication devices manufactured from 1999 to 2016 by the Canadian company Research in Motion (RIM; BlackBerry from 2013 on) that were among the first popular smartphones. The BlackBerry's roots go back to the RIM 850, a pager created by RIM in 1999.
+    </p>
+    <hr>
+
+
+    
+
+
+
+    
+    
+    
+   
+</body>
+</html>
